@@ -52,8 +52,7 @@ html{
 
 .bg{
     width: 100%;
-    background-color: rgba(0,0,0,.5);#
-    
+    background-color: rgba(0,0,0,.5);
 }
 
 .bg-top, .bg-bottom{
@@ -71,15 +70,15 @@ html{
 }
 
 .container .pa{
-    background-image: url("../img/paris.jpg");
+    background-image: url("../img/amsterdam.jpeg");
 }
 
 .container .ist{
-    background-image: url("../img/istanbul.jpg");
+    background-image: url("../img/milano1.jpg");
 }
 
 .container .fir{
-    background-image: url("../img/firenze.jpg");
+    background-image: url("../img/københavn.avif");
 }
 
 .container .hol{
@@ -108,7 +107,7 @@ div.video.parallax{
 button.btn.btn-primary.btn-lg.btn-block {
     width: 508px;
     height: 120px;
-    background-color: darkorange;
+    background-color: rgb(0, 128, 255);
     font-size: 3.7em;
     color: ghostwhite;
 }
